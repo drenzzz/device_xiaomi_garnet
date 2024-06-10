@@ -14,6 +14,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     DevicePolicyPrebuilt \
     DMService \
     Drive \
+    Gramophone \
     MaestroPrebuilt \
     Maps \
     PlayAutoInstallConfig \
