@@ -4,6 +4,9 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+# Tes merge cik
+# Tes merge cik
+
 DEVICE_PATH := device/xiaomi/garnet
 
 BUILD_BROKEN_DUP_RULES := true
